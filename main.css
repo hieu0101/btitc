@@ -1,0 +1,56 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+    background-image: url(https://cdnmedia.webthethao.vn/uploads/2021-06-09/zed-hang-hieu.jpg);
+    background-size: cover
+    ;
+}
+.tieude{
+    height: 100%;
+    width: 35%;
+    background-color: rgba(104, 144, 144, 0.416);
+}
+h1{
+    display: block;
+    border-left:3px solid rgb(213, 75, 15);
+     text-align: center;
+     padding-top: 30px;
+    margin:auto ;
+    color: beige;
+
+}
+.content{
+    height: 25%;
+    width: 90%;
+    margin-left: 35px;
+
+}
+.content img {
+    width: 150PX;
+    height: 150PX;
+    border-radius: 50%;
+    border: 3px solid white;
+    /* display: inline; */
+    position: relative;
+    top: 130px;
+    right: 30 px;
+
+}
+.text { 
+    width: 70%;
+    position: relative;
+    left: 170px;
+    color: azure;
+}
+.ttt{
+    
+    transform: rotate(-12deg);
+    text-shadow:0 0 15px rgb(205, 205, 79);
+    color:rgba(36, 214, 63, 0.539);
+    font-size:70px;
+    position: relative;
+    left:55%;
+    top:150px;
+    position: absolute;
